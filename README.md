@@ -1,5 +1,5 @@
 
-![1](https://hoyocard.qhy04.com/gs/[14,28,38,50,51,53,57,64,75,81]/350803113.png)
+![2](https://hoyocard.qhy04.com/gs/[14,28,38,53,57,75,81]/350803113.png)
 <!--
 **lzray-universe/lzray-universe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
